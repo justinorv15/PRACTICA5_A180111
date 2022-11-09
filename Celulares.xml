@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:\C:\Users\justi\source\repos\Practica5_A180111\Celular.xsl"?>
+<celulares>
+  <celular>
+    <marca>Samsung</marca>
+    <modelo>Galaxy Z Fold4</modelo>
+  </celular>
+  <celular>
+    <marca>Apple</marca>
+    <modelo>iPhone 14 Pro Max</modelo>
+  </celular>
+  <celular>
+    <marca>Xiaomi</marca>
+    <modelo>Redmi Note 11S</modelo>
+  </celular>
+  <celular>
+    <marca>Huawei</marca>
+    <modelo>P50 Pro</modelo>
+  </celular>
+  <celular>
+    <marca>Motorola</marca>
+    <modelo>Moto E20</modelo>
+  </celular>
+  <celular>
+    <marca>Realme</marca>
+    <modelo>C21Y </modelo>
+  </celular>
+  <celular>
+    <marca>Honor</marca>
+    <modelo>Magic4 Pro</modelo>
+  </celular>
+</celulares>
